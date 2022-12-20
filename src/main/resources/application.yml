@@ -2,12 +2,15 @@ changelog:
   repository: spring-cloud/[fill in]
   sections:
     - title: ":star: New Features"
-      labels: ["enhancement"]
+      labels: [ "enhancement" ]
     - title: ":lady_beetle: Bug Fixes"
-      labels: ["bug"]
+      labels: [ "bug" ]
     - title: ":notebook_with_decorative_cover: Documentation"
-      labels: ["documentation"]
+      labels: [ "documentation" ]
     - title: ":hammer: Dependency Upgrades"
-      labels: ["dependencies"]
+      labels: [ "dependencies" ]
     - title: ":task: Tasks"
-      labels: ["task"]
+      labels: [ "task" ]
+  contributors:
+    exclude:
+      names: [ "dependabot", "ryanjbaxter", "OlgaMaciaszek", "spencergibb", "marcingrzejszczak", "jonatan-ivanov", "dsyer", "olegz", "cppwfs", "mminella", "sobychacko", "onobc"]
