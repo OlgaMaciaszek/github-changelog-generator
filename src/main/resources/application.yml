@@ -1,5 +1,5 @@
 changelog:
-  repository: spring-cloud/spring-cloud-openfeign
+  repository: spring-cloud/[fill in]
   sections:
     - title: ":star: New Features"
       labels: ["enhancement"]
