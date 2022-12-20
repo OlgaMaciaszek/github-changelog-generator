@@ -9,7 +9,7 @@ changelog:
       labels: [ "documentation" ]
     - title: ":hammer: Dependency Upgrades"
       labels: [ "dependencies" ]
-    - title: ":task: Tasks"
+    - title: ":heavy_check_mark: Tasks"
       labels: [ "task" ]
   contributors:
     exclude:
